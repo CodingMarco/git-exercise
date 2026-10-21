@@ -2,7 +2,6 @@ from __future__ import annotations
 from typing import List
 from math import isclose
 
-# Task A: see comment in function `test_vector_index_access`
 # Task B: see comment in function `test_3d_vector_subtraction`
 
 class Vector:
