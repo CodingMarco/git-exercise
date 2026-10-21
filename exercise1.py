@@ -2,7 +2,6 @@ from __future__ import annotations
 from typing import List
 from math import isclose
 
-# Task B: see comment in function `test_3d_vector_subtraction`
 
 class Vector:
     def __init__(self, coordinates: List[float]) -> None:
